@@ -1,2 +1,2 @@
-# pylab
-test repo
+# python class repo
+class repo
